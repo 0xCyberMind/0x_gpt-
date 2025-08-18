@@ -1,23 +1,20 @@
-# 0x_gpt-
-🤖 0x_gpt – A Telegram AI bot developed by 0xcyber_mind, powered by OpenAI GPT for next-gen conversations.
-MIT License
+# 🤖 0x_gpt  
 
-Copyright (c) 2025 0xcyber_mind
+A Telegram AI bot developed by **0xcyber_mind** using **Python, OpenAI GPT API, and python-telegram-bot**.  
+This bot provides ChatGPT-style AI conversations directly in Telegram.  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## ✨ Features
+- ✅ Smart AI replies using OpenAI GPT  
+- ✅ Error handling for invalid API keys / insufficient balance  
+- ✅ Custom startup banner (`Developed by 0xcyber_mind`)  
+- ✅ Easy to deploy on Render / Railway for 24x7 uptime  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+---
+
+## 🛠️ Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/0x_gpt.git
+   cd 0x_gpt
