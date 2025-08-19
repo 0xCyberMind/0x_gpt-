@@ -13,8 +13,44 @@ This bot provides ChatGPT-style AI conversations directly in Telegram.
 
 ---
 
+## ⚙️ Installation  
+
+### 1️⃣ Prerequisites  
+Make sure you have installed:  
+- **Python 3.10+** → [Download](https://www.python.org/downloads/)  
+- **Git** → [Download](https://git-scm.com/downloads)  
+- A **Telegram Bot Token** → via [@BotFather](https://t.me/botfather)  
+- An **OpenAI API Key** → from [OpenAI Dashboard](https://platform.openai.com/account/api-keys)  
+
+---
 ## 🛠️ Installation
 1. Clone this repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/0x_gpt.git
    cd 0x_gpt
+
+   ---
+## 💬 Usage
+
+| Command        | Description                         |
+| -------------- | ----------------------------------- |
+| `/start`       | Start the bot & get welcome message |
+| `/about`       | Info about bot & developer          |
+| `/checkapikey` | Test if your API key is valid       |
+| `/help`        | List all available commands         |
+| Any text       | AI will reply using ChatGPT         |
+
+
+📂 Project Structure
+
+0x_gpt/
+ ├── bot.py              # Main bot script
+ ├── requirements.txt    # Python dependencies
+ ├── .env.example        # Example env file
+ ├── README.md           # Documentation
+ ├── LICENSE             # Open-source license
+ └── logs/               # (Optional) logs folder
+
+
+
+
