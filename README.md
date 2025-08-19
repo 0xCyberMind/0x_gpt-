@@ -26,7 +26,7 @@ Make sure you have installed:
 ## 🛠️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/0x_gpt.git
+   git clone https://github.com/0xCyberMind/0x_gpt
    cd 0x_gpt
 
    ---
