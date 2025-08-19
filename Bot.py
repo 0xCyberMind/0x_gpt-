@@ -10,7 +10,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, ContextTyp
 BOT_TOKEN = "7771167091:AAGqv8s2xqfa4N3ag_AeOHqZ9O8LkhOJ4WU"
 VIRUSTOTAL_API_KEY = "8bf1f4bf617026e587538197efe40a6baea1891dae5272215ee35fc0025b1b05"
 DEEPSEEK_API_KEY = "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"
-CHATGPT_API_KEY = "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"   # ✅ NEW ChatGPT key
+CHATGPT_API_KEY = "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"   # ✅ NEW ChatGPT key
 IPINFO_TOKEN = ""  # optional: get free token from ipinfo.io
 
 # --- SECURITY CONFIG ---
@@ -170,4 +170,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
