@@ -7,10 +7,10 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 
 # --- CONFIG ---
-BOT_TOKEN = "7771167091:AAGqv8s2xqfa4N3ag_AeOHqZ9O8LkhOJ4WU"
-VIRUSTOTAL_API_KEY = "8bf1f4bf617026e587538197efe40a6baea1891dae5272215ee35fc0025b1b05"
-DEEPSEEK_API_KEY = "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"
-CHATGPT_API_KEY = "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"   # ✅ NEW ChatGPT key
+BOT_TOKEN = "Enter_bot_token"
+VIRUSTOTAL_API_KEY = "enter_virustotal_api_key"
+DEEPSEEK_API_KEY = "enter_depseek_api_key"
+CHATGPT_API_KEY = "enter_ai_api_key"   # ✅ NEW ChatGPT key
 IPINFO_TOKEN = ""  # optional: get free token from ipinfo.io
 
 # --- SECURITY CONFIG ---
