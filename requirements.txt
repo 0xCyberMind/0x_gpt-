@@ -19,7 +19,7 @@ tqdm==4.67.1
 typing-inspection==0.4.1
 typing_extensions==4.14.1
 urllib3==2.5.0
-groq==0.3.3
+groq==0.33.0
 python-dotenv==1.0.1
 aiofiles==23.2.1
 aiohttp==3.9.5
